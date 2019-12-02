@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53b4d644-ee35-4419-ac65-f6cf13ca1672" name="Default Changelist" comment="" />
+    <list default="true" id="53b4d644-ee35-4419-ac65-f6cf13ca1672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gantch/controller/DeviceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gantch/service/DeviceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gantch/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gantch/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gantch/bean/MaoyanDeviceBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gantch/bean/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gantch/controller/PushController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gantch/controller/PushController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gantch/mapper/DeviceMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gantch/mapper/DeviceMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gantch/service/PushService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gantch/service/PushService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GantchAliPushApplication-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GantchAliPushApplication-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GantchAliPushApplication-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/GantchAliPushApplication-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/GantchAliPushApplication.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gantch/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gantch/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gantch/bean/MaoyanDeviceBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gantch/bean/MaoyanDeviceBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gantch/controller/PushController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gantch/controller/PushController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gantch/mapper/DeviceMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gantch/mapper/DeviceMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +43,9 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GantchAliPushApplication" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -29,7 +53,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UBork7w2OVv68jVMVkn5okAEps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -37,9 +65,15 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gantch/Util" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../account-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -235,11 +269,29 @@
       <option name="presentableId" value="Default" />
       <updated>1574839549508</updated>
       <workItem from="1574839551231" duration="6760000" />
-      <workItem from="1574901214584" duration="12910000" />
+      <workItem from="1574901214584" duration="15919000" />
+      <workItem from="1574924943588" duration="2686000" />
+      <workItem from="1574987467911" duration="24473000" />
+      <workItem from="1575074233438" duration="8453000" />
+      <workItem from="1575091737296" duration="4378000" />
+      <workItem from="1575246696295" duration="2711000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
